@@ -88,9 +88,10 @@
 }
 
 @Online{Apple,
-  editor = {Apple},
-  title  = {Siri},
-  url    = {https://www.apple.com/siri/},
+  editor  = {Apple},
+  title   = {Siri},
+  url     = {https://www.apple.com/siri/},
+  urldate = {2022-08-12},
 }
 
 @WWW{Stone2021,
